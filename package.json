@@ -1,0 +1,19 @@
+{
+  "name": "month_data",
+  "version": "1.0.1",
+  "description": "App to track monthly expenses",
+  "main": "index.js\t",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvsnpraveen/monthData.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cvsnpraveen/monthData/issues"
+  },
+  "homepage": "https://github.com/cvsnpraveen/monthData#readme"
+}
